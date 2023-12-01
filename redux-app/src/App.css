@@ -1,0 +1,22 @@
+.Header_el{
+    font-size: 25px;
+    font-weight: 800;
+    color:
+    #10498A;
+}
+
+.img{
+    width: 100%;
+    object-fit: fill;
+    height: 20vh;
+
+}
+
+.card{
+    height: 100%;
+}
+
+.price{
+    font-size: 15px;
+    font-weight: 600;
+}
